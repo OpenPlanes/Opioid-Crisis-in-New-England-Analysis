@@ -11,4 +11,8 @@ Ofﬁcial data show that fentanyl-related overdose deaths have spiked after 2012
 
    This data, representing the number of deaths attributed to each of the three substances over 100,000 individuals
    As it can be seen from the figure, heroin deaths started to increase since the early 2010s. Despite growing earlier than fentanyl overdose deaths, the latter grew with a steep exponential tendency starting from 2013. In fact, deaths caused by fentanyl overdose increased by about 450% over the period 2014-2019. While in 2016 fentanyl continued to increase, heroin started to marginally decrease. Finally, for the whole 20-years period in consideration, prescription opioid deaths were stable, averaging over 3.5 deaths for each 100,000 individuals in the US.
-   
+
+2. First Model
+   <img width="889" alt="first model" src="https://github.com/OpenPlanes/Opioid-Crisis-in-New-England-Analysis/assets/106100235/46f713d5-a0d2-4c5e-b7de-c0a32cc2b8d5">
+
+   In particular, given the estimated conversion rate ω and the average number of people belonging to each compartment, an average of 5.46 individuals transitioned yearly from heroin to fentanyl in a voluntary way. This speciﬁc transition is not the biggest channel bringing people to the Fentanyl compartment: the proportion of people entering F is dominated by individuals that buy heroin laced with fentanyl without them being aware of it, especially when the laced rate φ gets closer to 50%.
